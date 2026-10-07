@@ -1,0 +1,36 @@
+body {
+font-family: Arial, sans-serif;
+text-align: center;
+padding-top: 50px;
+}
+
+button {
+padding: 10px 20px;
+font-size: 18px;
+background-color: lightgoldenrodyellow;
+cursor: pointer;
+}
+
+#questionBox {
+width: 400px;
+margin: 30px auto;
+padding: 20px;
+border: 2px solid black;
+background-color: lightseagreen;
+}
+
+.hidden {
+display: none;
+}
+/* Q2 */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #f2f2f2;
+}
+.container{
+    margin-top: 50px;
+}
+#myPicture{
+    width: 300px;
+}
